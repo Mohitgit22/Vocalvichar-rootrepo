@@ -27,7 +27,7 @@ VocalVichar is a **scalable microservices-driven backend** designed for efficien
 ## 🔹 Screenshots
 
 ### Backend Services Running on AWS
-#### Admin Service
+#### Url working
 ![Admin Service](https://github.com/Mohitgit22/Vocalvichar-rootrepo/blob/69801808a7131070b21c2e300e5a4b4d72e07c80/vv_1.png)
 
 #### Song Service
