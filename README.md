@@ -3,11 +3,18 @@
 VocalVichar is a **scalable microservices-driven backend** designed for efficient **audio content management**. The system is structured into three independent services:
 
 ## 🔹 Microservices Architecture
-| Service  | Repository Link  | Deployed URL |
-|----------|------------------|--------------|
-| **Song Service** |  [VocalVichar-SongService](https://github.com/Mohitgit22/VocalVichar-SongService) | [Song Service](http://13.201.189.239:8001/) |
-| **Admin Service** |  [VocalVichar-AdminService](https://github.com/Mohitgit22/VocalVichar-AdminService) | [Admin Service](http://13.201.189.239:7001/) |
-| **User Service** | [VocalVichar-UserService](https://github.com/Mohitgit22/VocalVichar-UserService) | [User Service](http://13.201.189.239:5001/) |
+| Service  | Repository Link  |
+|----------|------------------|
+| **Song Service** |  [VocalVichar-SongService](https://github.com/Mohitgit22/VocalVichar-SongService) | 
+| **Admin Service** |  [VocalVichar-AdminService](https://github.com/Mohitgit22/VocalVichar-AdminService) | 
+| **User Service** | [VocalVichar-UserService](https://github.com/Mohitgit22/VocalVichar-UserService) |
+
+Deployed URL 
+
+**Admin service deployed url** - http://13.201.189.239:7001/
+**Song service deployed url** - http://13.201.189.239:8001/
+**User service deployed url** - http://13.201.189.239:5001/
+
 
 ## 🔹 Technologies Used
 - **Backend:** Node.js, Express.js  
