@@ -9,10 +9,12 @@ VocalVichar is a **scalable microservices-driven backend** designed for efficien
 | **Admin Service** |  [VocalVichar-AdminService](https://github.com/Mohitgit22/VocalVichar-AdminService) | 
 | **User Service** | [VocalVichar-UserService](https://github.com/Mohitgit22/VocalVichar-UserService) |
 
-Deployed URL 
+## Deployed URL 
 
-**Admin service deployed url** - http://13.201.189.239:7001/
+**Admin service deployed url** - http://13.201.189.239:7001/ 
+
 **Song service deployed url** - http://13.201.189.239:8001/
+
 **User service deployed url** - http://13.201.189.239:5001/
 
 
